@@ -4,7 +4,7 @@
 </div>
 
 ### 💡 - About this project
-NovelNook is a website designed to make it easy for book lovers to find their next great read. The website was created with the idea that book lovers (like myself) shouldn't have to spend hours searching for their next book. By using the NY Times API, NovelNook generates a list of books and their descriptions. Users can then add these books to their personal library, which is saved to a supabase to their device. With its simple and interface, users can streamline the process to find their next best read.
+NovelNook is a website designed to make it easy for book lovers to find their next great read. The website was created with the idea that book lovers (like myself) shouldn't have to spend hours searching for their next book. By using the NY Times API, NovelNook generates a list of books and their descriptions. Users can then add these books to their personal library, which is saved to a supabase database. With its simple interface, users can streamline the process to find their next best read.
 <br>
 <br>
 Live Site : [NovelNook](https://novelnook.netlify.app/)
@@ -20,7 +20,7 @@ Live Site : [NovelNook](https://novelnook.netlify.app/)
 
 - Using supabase database to store information
 - Using supabase to handle user auth and displaying certain information only when the user is logged in 
-- Using JS cache to store unique data from the NYTimesApi, preventing unnesseary API calls when loading the website
+- Using JS cache to store unique data from the NYTimesApi, preventing unnecessary API calls when loading the website
 - Storing/Retrieving items from local storage
 - And much more...
 
