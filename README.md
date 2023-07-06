@@ -25,7 +25,7 @@ Live Site : [NovelNook](https://novelnook.netlify.app/)
 - And much more...
 
 ### 📌 - Future Goals
-- If not logged in, allow users to store their books in local storage
+- Implement real-time book discussions
 - Allow users to share their personal libraries
 <br>  
 
